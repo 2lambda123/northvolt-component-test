@@ -1,2 +1,2 @@
-# component-test
+# Component-test
 🌈🖥🕺🎶 Code Test
