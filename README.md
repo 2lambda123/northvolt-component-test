@@ -1,7 +1,7 @@
 # 🌈🖥🕺 Component Test
 
 ## Todo
-- [ ] Create a React  component based on the Figma design
+- [ ] Create a React Accordian-component based on the Figma design
 - [ ] Clone this repo and create your component, share the link with your recruiter through Jobylon
 
 ## Requirements
