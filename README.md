@@ -1,5 +1,4 @@
-# Component-test
-🌈🖥🕺🎶 Code Test
+# 🌈🖥🕺 Component Test
 
 ## Todo
 - [ ] Create a React  component based on the Figma design
